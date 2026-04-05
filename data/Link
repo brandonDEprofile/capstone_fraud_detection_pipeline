@@ -1,0 +1,10 @@
+## Dataset
+
+Due to file size limitations, the dataset is not included in this repository.
+
+You can download the dataset from Kaggle here:  
+https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data
+
+After downloading, place the dataset in the following directory:
+
+data/Fraud.csv
